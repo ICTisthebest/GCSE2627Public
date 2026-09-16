@@ -120,7 +120,7 @@ routes = [
 
 ] 
 
-routeNumber = input("Enter yoyr route number: ")
+routeNumber = input("Enter your route number: ")
 
 
 
