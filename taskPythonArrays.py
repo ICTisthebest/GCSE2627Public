@@ -121,6 +121,18 @@ routes = [
 ] 
 
 routeNumber = input("Enter your route number: ")
+count = 0
+
+for x in range(len(routes)):
+    if routes[x] == routeNumber:
+        count = count + 1 
+
+print(count)
+    
+
+    
+
+
 
 
 
