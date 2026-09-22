@@ -120,12 +120,17 @@ routes = [
 
 ] 
 
-routeNumber = input("Enter your route number: ")
-count = 0
+count = 0 
+found = False
+target = int(input("Enter route number: "))
 
-for x in range(len(routes)):
-    if routes[x] == routeNumber:
-        count = count + 1 
+for x in range (len(routes)):
+    if routes[x] == target:
+        found = True 
+        count = count + 1
+
+    else:
+        found = False
 
 print(count)
     
