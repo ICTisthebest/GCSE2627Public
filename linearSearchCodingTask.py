@@ -116,8 +116,3 @@
 
 # if found == True:
 #     print(names[index] + " got a score of " +str(scores[index]))
-
-
-
-
-
