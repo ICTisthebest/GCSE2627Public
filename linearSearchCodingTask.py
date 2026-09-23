@@ -92,8 +92,10 @@
 # else:
 #     print("Name not found!")
 
-# # Task 5 
-# numbers = [5, 8 , 5 , 3 , 5 , 9 , 5]
+# Task 5 
+numbers = [5, 8 , 5 , 3 , 5 , 9 , 5]
+target = int(input("Please enter target number: "))
+
 
 # # Task X 
 # names = ["Amir", "Beth", "Callum", "Dion"]
