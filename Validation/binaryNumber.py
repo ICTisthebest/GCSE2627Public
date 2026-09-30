@@ -1,4 +1,4 @@
-# Validate a binary number and convert to 10 base number 
+# Validate a binary number and convert to base 10 number 
 
 binaryNumber = input("Please enter an 8 bit binary number: ")
 valid = False
